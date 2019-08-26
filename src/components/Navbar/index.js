@@ -14,7 +14,7 @@ function Navbar(props) {
         <div className="navbar-brand">
           <div  >
             <Link to="/">
-              <img className="image" width="160px" height="30px" src={props.logo} alt="Logo" />
+              <img className="image" width="200px" height="50px" src={props.logo} alt="Logo" />
             </Link>
           </div>
           <div

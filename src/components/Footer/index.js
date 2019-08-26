@@ -28,7 +28,7 @@ function Footer(props) {
             </span>
           </a>
           <a
-            href="https://facebook.com"
+            href="https://www.facebook.com/Skopje-Consulting-Group-102594877783931/?modal=admin_todo_tour"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -37,12 +37,12 @@ function Footer(props) {
             </span>
           </a>
           <a
-            href="https://instagram.com"
+            href="https://www.linkedin.com/company/skopje-consulting-group/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <span className="icon">
-              <i className="fab fa-instagram" />
+              <i className="fab fa-linkedin" />
             </span>
           </a>
         </div>
