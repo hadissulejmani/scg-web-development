@@ -15,8 +15,8 @@ function HomePage(props) {
       <HeroSection
           color="white"
           size="medium"
-          title="Your landing page title here"
-          subtitle="This landing page is perfect for showing off your awesome product and driving people to sign up for a paid plan."
+          title="Empowering those who can advance the world"
+          subtitle="We are a full-service agency that helps companies thrive in the digital landscape."
           
           image={heroImage}
           //"https://uploads.divjoy.com/undraw-japan_ubgk.svg"
@@ -27,7 +27,7 @@ function HomePage(props) {
           color="white"
           size="medium"
           title="Features"
-          subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+          subtitle="."
         />
       </div>
       <div id="contactSection">

@@ -9,36 +9,35 @@ function FeaturesSection(props) {
     <Section color={props.color} size={props.size}>
       <div className="container">
         <SectionHeader
-          title={props.title}
-          subtitle={props.subtitle}
+          title={"WHAT WE DO"}
           centered={true}
           size={3}
         />
         <Features
           items={[
             {
-              title: "Explore",
+              title: "Strategy",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
+                "With data capabilities of a media agency coupled with the cultural analysis of a creative-driven research firm, we bring companies closer to their customers.",
               image: "https://uploads.divjoy.com/undraw-mind_map_cwng.svg"
             },
             {
-              title: "Explore",
+              title: "Creative",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
+                "With so many writers, designers, photographers, editors and animators with one common goal: blowing business objectives (and minds) out of the water.",
               image:
                 "https://uploads.divjoy.com/undraw-personal_settings_kihd.svg"
             },
             {
-              title: "Explore",
+              title: "Product and Service Development",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
+                "With our diverse teams of professionals you'll see agile product development and business innovation for the now.",
               image: "https://uploads.divjoy.com/undraw-having_fun_iais.svg"
             },
             {
-              title: "Explore",
+              title: "Business Design",
               description:
-                "Integer ornare neque mauris, ac vulputate lacus venenatis et. Pellentesque ut ultrices purus.",
+                "Enabling digital transformations we manage to drive growth and scale innovation.",
               image: "https://uploads.divjoy.com/undraw-balloons_vxx5.svg"
             }
           ]}
