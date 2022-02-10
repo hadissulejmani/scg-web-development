@@ -15,7 +15,7 @@
     "express": "4.17.1",
     "fake-auth": "0.0.3",
     "mailchimp-api-v3": "1.13.1",
-    "node-sass": "4.12.0",
+    "node-sass": "7.0.0",
     "query-string": "6.8.2",
     "react": "16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
